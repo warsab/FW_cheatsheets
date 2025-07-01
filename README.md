@@ -2,7 +2,8 @@ __________________
 ### 🕊FreedomWings 🕊  
 # ☣️ Cheatsheets
 __________________
-Author: Various
-Version: 0.1  
+Authors: Various  
+> Cheat-sheet Resources: [DataCamp](https://www.datacamp.com/cheat-sheet).
+
 Description:
 > A collection of Tech cheat sheets and resources
